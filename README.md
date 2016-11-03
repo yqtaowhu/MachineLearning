@@ -8,8 +8,7 @@ every algorightm have a real example to test
 
 | Name | Source |Comment |
 | ---- | -------|------- |
-|K Nearest Neighbors Algorithm | [kNN.py](./sort/mySort.h)  [mySort_Demo](./sort/mySort_Demo.cpp)| classic sorting algorithms |
-|KMP | [kmp.cpp](./KMP/kmp.cpp) | the classic string matching algorithm |
+|K Nearest Neighbors Algorithm |ReadMe.md(./kNN/ReadMe.md) | include Handwritten numeral recognition program |
 
 ## License
 

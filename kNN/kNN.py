@@ -106,8 +106,8 @@ def handWritingClassTest():
 
 #################################################################################################
 if __name__ == '__main__':
-     #classfyTest()                     #you can also run this program
-     handWritingClassTest()
+	#classfyTest()                     #you can also run this program
+    handWritingClassTest()
 
     
 

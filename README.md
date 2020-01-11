@@ -1,10 +1,14 @@
-# Machine Learning 
-Here is some machine learning algorithms written in python.
-every algorightm have a real example to test
+# 机器学习
+我的机器学习之路
+
+# 1. 经典机器学习
+|Name|Source|Comment|
+| ---- | -------|------- |
+|逻辑回归|[1.逻辑回归.md](classical-machine-learning/1.逻辑回归.md/1.逻辑回归.md)|逻辑回归算法原理与常见问题|
+|支持向量机|[2.支持向量机.md](classical-machine-learning/2.支持向量机.md/2.支持向量机.md)|支持向量机算法原理|
 
 
-## Algorithm
-
+# 2. 深度学习
 | Name | Source |Comment |
 | ---- | -------|------- |
 |K Nearest Neighbors Algorithm |[ReadMe.md](./Traditional-machine-learning/kNN/ReadMe.md) | include Handwritten numeral recognition program |
@@ -13,6 +17,14 @@ every algorightm have a real example to test
 |basic Convolutional Neural Network|[ReadMe.md](./Basic-CNN/ReadMe.md)|some classical Convolutional network network write in tensorflow |
 |VGG Net|[ReadMe.md](./VGGNet/ReadMe.md)|vgg16 net implement and using pre-train to classfication|
 |Word2Vec|[word2Vec.py](./word2Vec/word2Vec.py)|implement word2vec write in tensorflow |
+
+
+## 3. 常见面试问题
+| Name | Source |Comment |
+| ---- | -------|------- |
+|特征工程|[1.特征工程.md](interview/feature_engineering/1.特征工程.md)|常用特征工程和原理|
+|优化算法|[1.一阶优化算法.md](interview/optimize_algorithm/1.一阶优化算法.md)|sgd,momentum,adam等一阶算法原理|
+|优化算法|[2.二阶优化算法.md](interview/optimize_algorithm/2.二阶优化算法.md)|牛顿、拟牛顿等二阶优化算法原理|
 
 ## License
 

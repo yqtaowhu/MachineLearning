@@ -6,6 +6,9 @@
 | ---- | -------|------- |
 |逻辑回归|[1.逻辑回归.md](classical-machine-learning/1.逻辑回归.md)|逻辑回归算法原理与常见问题|
 |支持向量机|[2.支持向量机.md](classical-machine-learning/2.支持向量机.md)|支持向量机算法原理|
+|聚类算法|[5.聚类算法](classical-machine-learning/5.聚类算法.md)|聚类算法k-means,dbscan等|
+|降维|[6.降维算法](classical-machine-learning/6.降维(PCA,LDA).md)|降维相关算法总结pca,lda等|
+|概率图模型|[7.概率图模型.md](classical-machine-learning/7.概率图模型.md)| 概率图模型综述，hmm, crf模型等|
 
 
 # 2. 深度学习

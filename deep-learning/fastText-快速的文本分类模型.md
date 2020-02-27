@@ -1,5 +1,13 @@
+- [fastText-快速文本分类模型](#fasttext-%e5%bf%ab%e9%80%9f%e6%96%87%e6%9c%ac%e5%88%86%e7%b1%bb%e6%a8%a1%e5%9e%8b)
+  - [1. 模型结构](#1-%e6%a8%a1%e5%9e%8b%e7%bb%93%e6%9e%84)
+  - [2. 分层softmax](#2-%e5%88%86%e5%b1%82softmax)
+  - [3. N-gram 特征](#3-n-gram-%e7%89%b9%e5%be%81)
+  - [4. 训练](#4-%e8%ae%ad%e7%bb%83)
+  - [参考资料](#%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99)
 
 # fastText-快速文本分类模型
+
+核心思想: 将整篇文档的词及n-gram向量叠加平均得到文档向量，然后使用文档向量做softmax多分类。这中间涉及到两个技巧：字符级n-gram特征的引入以及分层Softmax分类。
 
 ## 1. 模型结构
 
@@ -35,4 +43,12 @@ $$J = -y_i.log(h(x_i))$$
 fastText加入了n-gram特征作为输入，注意n-gram分为字符级别和词级别。
 
 ## 4. 训练
+
+```
+./fasttext supervised -input train.txt -output model -epoch 50 -minCount 5 -wordNgrams 8 
+```
+
+## 参考资料
+- Bag of Tricks for Efficient Text Classification
+- [fastText原理及实践](https://zhuanlan.zhihu.com/p/32965521)
 

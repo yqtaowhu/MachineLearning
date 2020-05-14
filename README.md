@@ -22,13 +22,16 @@
 |basic Convolutional Neural Network|[ReadMe.md](./Basic-CNN/ReadMe.md)|some classical Convolutional network network write in tensorflow |
 |VGG Net|[ReadMe.md](./VGGNet/ReadMe.md)|vgg16 net implement and using pre-train to classfication|
 |Word2Vec|[word2Vec.py](./word2Vec/word2Vec.py)|implement word2vec write in tensorflow |
+|模型压缩|[模型压缩.md](deep-learning/模型压缩.md)| 模型压缩方法综述|
 
 ## 3. 交叉科学
 包含数学、信息论等一些常用知识的记录
 
 | Name | Source |Comment |
 | ---- | -------|------- |
-|信息论基础|[1.信息论基础](interdiscipline/1.信息论基础.md)|信息论基础概念，熵，交叉熵，K-L散度等|
+|信息论|[1.信息论基础](interdiscipline/1.信息论基础.md)|信息论基础概念，熵，交叉熵，K-L散度等|
+|概率论|[2.最大似然估计与最大后验估计](interdiscipline/2.最大似然估计和最大后验估计.md)|最大似然与最大后验估计|
+|概率论|[3.常用的概率分布](interdiscipline/3.常用的概率分布.md)|
 
 
 ## 4. 常见面试问题
@@ -39,6 +42,7 @@
 |优化算法|[2.二阶优化算法.md](interview/optimize_algorithm/2.二阶优化算法.md)|牛顿、拟牛顿等二阶优化算法原理|
 |模型评估|[1.评估指标](interview/model_evaluate/1.评估指标.md)|分类、回归、排序模型的评估指标|
 |模型评估|[2.机器学习中的ROC于PR曲线](interview/model_evaluate/2.机器学习中的ROC与PR曲线.md)| 介绍roc和pr曲线的常见问题|
+|深度学习|[1.batch-normalization及其变种](interview/deep_learning/1.batch-normalization及其变种.md)|batch normalization及其变种|
 
 ## License
 

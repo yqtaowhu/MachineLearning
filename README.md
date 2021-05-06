@@ -23,6 +23,7 @@
 |VGG Net|[ReadMe.md](./VGGNet/ReadMe.md)|vgg16 net implement and using pre-train to classfication|
 |Word2Vec|[word2Vec.py](./word2Vec/word2Vec.py)|implement word2vec write in tensorflow |
 |模型压缩|[模型压缩.md](deep-learning/模型压缩.md)| 模型压缩方法综述|
+|transformer|[transformer.md](deep-learning/transformer.md)| transformer相关总结|
 
 ## 3. 交叉科学
 包含数学、信息论等一些常用知识的记录

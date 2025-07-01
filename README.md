@@ -4,20 +4,14 @@
 # 1. 基础知识
 |Name|Source|Comment|
 | ---- | -------|------- |
-|逻辑回归|[1.逻辑回归.md](classical-machine-learning/1.逻辑回归.md)|逻辑回归算法原理与常见问题|
-|支持向量机|[2.支持向量机.md](classical-machine-learning/2.支持向量机.md)|支持向量机算法原理|
+|逻辑回归|[1.逻辑回归.md](machine-learning/1.逻辑回归.md)|逻辑回归算法原理与常见问题|
+|支持向量机|[2.支持向量机.md](machine-learning/2.支持向量机.md)|支持向量机算法原理|
 |树模型|[3.树模型-决策树.md](interview/classical_algorithm/3.树模型-决策树.md)|决策树基础|
 |树模型|[3.树模型-梯度提升树](interview/classical_algorithm/3.树模型-梯度提升树.md)|adaboost, xgboost, lgb等提升模型|
 |朴素贝叶斯|[4.朴素贝叶斯](interview/classical_algorithm/4.朴素贝叶斯.md)|朴素贝叶斯模型|
-|聚类算法|[5.聚类算法](classical-machine-learning/5.聚类算法.md)|聚类算法k-means,dbscan等|
-|降维|[6.降维算法](classical-machine-learning/6.降维(PCA,LDA).md)|降维相关算法总结pca,lda等|
-|概率图模型|[7.概率图模型.md](classical-machine-learning/7.概率图模型.md)| 概率图模型综述，hmm, crf模型等|
-|fastText|[fastText](deep-learning/fastText-快速的文本分类模型.md)| fastText文本分类模型介绍和应用|
-|Artificial Neural Network|[ReadMe.md](./Artificial-neural-network/ReadMe.md)|classical neural network|
-|basic Convolutional Neural Network|[ReadMe.md](./Basic-CNN/ReadMe.md)|some classical Convolutional network network write in tensorflow |
-|VGG Net|[ReadMe.md](./VGGNet/ReadMe.md)|vgg16 net implement and using pre-train to classfication|
-|Word2Vec|[word2Vec.py](./word2Vec/word2Vec.py)|implement word2vec write in tensorflow |
-|模型压缩|[模型压缩.md](deep-learning/模型压缩.md)| 模型压缩方法综述|
+|聚类算法|[5.聚类算法](machine-learning/5.聚类算法.md)|聚类算法k-means,dbscan等|
+|降维|[6.降维算法](machine-learning/6.降维(PCA,LDA).md)|降维相关算法总结pca,lda等|
+|概率图模型|[7.概率图模型.md](machine-learning/7.概率图模型.md)| 概率图模型综述，hmm, crf模型等|
 
 
 
@@ -51,6 +45,7 @@
 | Name | Source |
 | ---- | -------|
 |激活函数总结|[1.激活函数总结.md](interview/1.激活函数总结.md)|
+|深度学习|[1.batch-normalization及其变种](interview/deep_learning/1.batch-normalization及其变种.md)|batch normalization及其变种|
 
 
 ## License

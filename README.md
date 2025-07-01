@@ -48,14 +48,9 @@
 
 
 # 5. 其他/常见面试问题
-| Name | Source |Comment |
-| ---- | -------|------- |
-|特征工程|[1.特征工程.md](interview/feature_engineering/1.特征工程.md)|常用特征工程和原理|
-|优化算法|[1.一阶优化算法.md](interview/optimize_algorithm/1.一阶优化算法.md)|sgd,momentum,adam等一阶算法原理|
-|优化算法|[2.二阶优化算法.md](interview/optimize_algorithm/2.二阶优化算法.md)|牛顿、拟牛顿等二阶优化算法原理|
-|模型评估|[1.评估指标](interview/model_evaluate/1.评估指标.md)|分类、回归、排序模型的评估指标|
-|模型评估|[2.机器学习中的ROC于PR曲线](interview/model_evaluate/2.机器学习中的ROC与PR曲线.md)| 介绍roc和pr曲线的常见问题|
-|深度学习|[1.batch-normalization及其变种](interview/deep_learning/1.batch-normalization及其变种.md)|batch normalization及其变种|
+| Name | Source |
+| ---- | -------|
+|激活函数总结|[1.激活函数总结.md](interview/1.激活函数总结.md)|
 
 
 ## License
